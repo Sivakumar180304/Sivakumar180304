@@ -9,8 +9,8 @@
 </p>
 
 <p>
-  📫 <strong>Email:</strong> <a href="mailto:vishwaharan002@gmail.com">vishwaharan002@gmail.com</a><br>
-  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vishwaharan02-m">linkedin.com/in/vishwaharan02-m</a>
+  📫 <strong>Email:</strong> <a href="mailto:sivakumar180304@gmail.com">sivakumar180304@gmail.com</a><br>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vishwaharan02-m">linkedin.com/in/siva</a>
 </p>
 
 ---
