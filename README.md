@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Sivakumar S 👋</h1>
-<h3 align="center">Enthusiastic Java & Flutter Developer | B.Tech in Information Technology | Tech Innovator</h3>
+<h3 align="center">Enthusiastic Java & MERN Stack Web Developer | B.Tech in Information Technology | Tech Innovator</h3>
 
 ---
 
 ### 🔭 About Me:
 <p>
-  I am a dedicated and results-driven developer with a passion for creating robust web and mobile applications using Java and Flutter. My goal is to leverage technology to solve real-world problems and enhance user experiences.
+  I am a dedicated and results-driven developer with a strong focus on building dynamic web applications using the MERN stack (MongoDB, Express.js, React, Node.js) and a passionate Java developer with extensive experience in object-oriented programming (OOP), data structures and algorithms (DSA), and multithreading. Adept at solving complex problems and optimizing performance to deliver robust and scalable applications. My goal is to leverage cutting-edge technologies and my technical skills to address real-world challenges, enhance user experiences, and drive innovation in software solutions.
 </p>
 
 <p>
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Languages, FrameWorks and Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -25,16 +25,10 @@
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 20px;"/>
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 20px;"/>
       </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://flutter.dev" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="margin: 20px;"/>
-      </a>
-      <br>Flutter
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
@@ -53,9 +47,7 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
-    </td>    
-  </tr>
-  <tr>
+    </td>
     <td align="center" width="96">
       <a href="https://www.javascript.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 20px;"/>
@@ -63,10 +55,42 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring-boot" width="40" height="40" style="margin: 20px;"/>
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="margin: 20px;"/>
       </a>
-      <br>Spring Boot
+      <br>React
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="margin: 20px;"/>
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="margin: 20px;"/>
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="margin: 20px;"/>
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" style="margin: 20px;"/>
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40" style="margin: 20px;"/>
+      </a>
+      <br>Postman
     </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com" target="_blank">
@@ -83,13 +107,13 @@
   </tr>
 </table>
 
----
+
 
 ### 💡 Skills:
-- 🔤 **Languages** Java, Python
-- 📺 **Front End Development:** HTML, CSS, JavaScript, Bootstrap
-- 🧵 **Back End Development:** Spring Boot, SQL
-- 🛠️ **Development Tools:** VS Code, Android Studio, Git & GitHub
+- 🔤 **Languages** Java, C
+- 📺 **Front End Development:** HTML, CSS, JavaScript, Bootstrap, React
+- 🧵 **Back End Development:** Node Js, Express, MongoDB, Firebase, SQL 
+- 🛠️ **Development Tools:** VS Code, Intellij Idea, Git & GitHub, Postman
 - ⚡ **Soft Skills:** Strong Communication, Problem Solving, Teamwork, Adaptability
 
 ---
